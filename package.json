@@ -1,0 +1,16 @@
+{
+  "name": "api-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael kolwole",
+  "license": "ISC",
+  "dependencies": {
+    "goo.gl": "^0.1.4",
+    "google-url": "0.0.4",
+    "googleapis": "^12.3.0"
+  }
+}
